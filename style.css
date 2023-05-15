@@ -18,9 +18,21 @@ body {
 }
 
 h1 {
+  font-size: 1.2em;
+  padding-left: 10px;
+  line-height: 1.1;
+}
+
+h2 {
   font-size: 1em;
   padding-left: 10px;
   line-height: 1.1;
+}
+
+#svelte_root {
+  background-color: black;
+  width: 300px;
+  height: 200px;
 }
 
 #three_canvas {
